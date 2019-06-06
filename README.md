@@ -6,3 +6,8 @@ p = number of objects;
 q = shading;
 r = color;
 s = shape;
+
+Check out the notebook:
+cnn_game_set.ipynb
+
+WORK IN PROGRESS
